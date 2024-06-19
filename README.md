@@ -17,4 +17,12 @@
 
 **Doctoral Writing Consultant @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)**
 
+**Writing Coach & Manuscript Consultant (_Jun 2019 - Present_)**
+
+**Writer-in-Residence @ Regina Public Library (_Sep 2021 - May 2022_)**
+
+**Virtual Writer-in-Residence @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)**
+
+
+
 
