@@ -5,7 +5,7 @@
 ### Education
   **PhD. Literature & Creative Writing**, University of Southern California
   - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
-  -   
+ 
   **MLIS Library & Information Science**, University of British Columbia, Vancouver
   - Research Interests:  Digital Humanities, Storytelling, Gaming
     
