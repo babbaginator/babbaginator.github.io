@@ -4,11 +4,14 @@
 
 ### Education
   **PhD. Literature & Creative Writing**, University of Southern California
-  - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_  
+  - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
+  -   
   **MLIS Library & Information Science**, University of British Columbia, Vancouver
   - Research Interests:  Digital Humanities, Storytelling, Gaming
+    
   **MFA Creative Writing**, University of California, Riverside
   - Thesis: _The Lost Country of Sight_ (poetry)
+    
   **BS Computer Science**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
 
