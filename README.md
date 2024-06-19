@@ -19,14 +19,17 @@
 - **Writer-in-Residence** @ Regina Public Library (_Sep 2021 - May 2022_)
 - **Virtual Writer-in-Residence** @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)
 
-### Publications ###
+### Publications 
 #### _Books_ 
 - _Babbage's Dream_. Sundress Publications, 2017. (poetry).
 - _The Book of Cranes: Selected Poems by Zang Di (1984-2015)_. Vagabond Books AU, 2015. (Chinese-English translation).
 - _The Lost Country of Sight_. Anhinga Press, 2008. (poetry).
 
 #### _Chapbooks_
-- _Leviathan_ (Hyacinth Girl Press, 2016). (poetry).
+- _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
 
+### Projects 
+- [Have Book Will Travel](http://www.havebookwilltravel.com)
+- [De-Canon: A Library](https://www.de-canon.com)
 
 
