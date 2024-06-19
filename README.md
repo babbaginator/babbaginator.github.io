@@ -30,9 +30,9 @@
 
 ### Projects 
 [De-Canon](https://www.de-canon.com)
-> [De-Canon](https://www.de-canon.com) is a literary social practice art project that centers the works and voices of writers of color. Founded in 2017 as a “pop-up library” + social engagement project, with a mission to challenge and unsettle notions of the (western) literary canon while also questioning precepts of canonization itself, De-Canon encourages new paradigms of writing and reading. 
+> De-Canon is a literary social practice art project that centers the works and voices of writers of color. Founded in 2017 as a “pop-up library” + social engagement project, with a mission to challenge and unsettle notions of the (western) literary canon while also questioning precepts of canonization itself, De-Canon encourages new paradigms of writing and reading. 
 
 [Have Book, Will Travel](http://www.havebookwilltravel.com)
-> [Have Book, Will Travel](http://www.havebookwilltravel.com) is a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events.
+> Have Book Will Travel is a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events.
 
 
