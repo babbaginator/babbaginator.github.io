@@ -46,9 +46,8 @@
    - a literary social practice art project that centers the works and voices of writers of color
    - in addition to co-directing the project, I also wrote numerous research articles for the blog
    - site designed and hosted at Squarespace
-- [Have Book, Will Travel](http://www.havebookwilltravel.com) 
-   - a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events
-   - created with WordPress
+- [Have Book, Will Travel](http://www.havebookwilltravel.com) (2015-Present)
+   - a Wordpress site featuring a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events
    - 400+ author, venue, and reading series profiles
 
 
