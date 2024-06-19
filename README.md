@@ -20,9 +20,13 @@
 - **Virtual Writer-in-Residence** @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)
 
 ### Publications ###
-- _Babbage's Dream_ (Sundress Publications, 2017). Book (poetry).
-- _Leviathan_ (Hyacinth Girl Press, 2016). Chapbook (poetry).
-- _The Lost Country of Sight_ (Anhinga Press, 2008). Book (poetry).
+#### _Books_ 
+- _Babbage's Dream_ (Sundress Publications, 2017). (poetry).
+- _The Book of Cranes: Selected Poems by Zang Di (1984-2015)_ (Vagabond Books AU, 2015). (Chinese-English translation).
+- _The Lost Country of Sight_ (Anhinga Press, 2008). (poetry).
+
+#### _Chapbooks_
+- _Leviathan_ (Hyacinth Girl Press, 2016). (poetry).
 
 
 
