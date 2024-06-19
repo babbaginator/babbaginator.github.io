@@ -28,7 +28,7 @@
 #### _Chapbooks_
 - _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
 
-### Projects 
+### Digital Projects 
 - [Boxcar Poetry Review](http://www.boxcarpoetry.com) (2006-2021)
    - an online literary journal featuring poetry, reviews of first books of poetry, and interviews with first-book poets. Created as a static site using HTML, CSS, and Javascript. 41 issues.
 - [The Hermit Poetry Series](https://www.youtube.com/c/NeilAitken) (2020-2023)
