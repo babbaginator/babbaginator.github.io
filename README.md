@@ -12,6 +12,10 @@
 - **BS Computer Science**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
 
+### DH Workshops 
+- **Engaging Play**, DHSI 2024, University of Victoria
+- **DH for Librarians**, DHSI 2024, University of Victoria
+
 ### Work Experience
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
 - **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
