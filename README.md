@@ -1,5 +1,7 @@
 ## Digital Scholarship Librarian
 
+#### Technical Skills: Python, Javascript, C++, HTML, CSS, SQL, Twine
+
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
   - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_  
