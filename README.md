@@ -13,15 +13,15 @@
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
 
 ### Work Experience
-**Digital Projects Specialist @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)**
+- **Digital Projects Specialist @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)**
 
-**Doctoral Writing Consultant @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)**
+- **Doctoral Writing Consultant @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)**
 
-**Writing Coach & Manuscript Consultant (_Jun 2019 - Present_)**
+- **Writing Coach & Manuscript Consultant (_Jun 2019 - Present_)**
 
-**Writer-in-Residence @ Regina Public Library (_Sep 2021 - May 2022_)**
+- **Writer-in-Residence @ Regina Public Library (_Sep 2021 - May 2022_)**
 
-**Virtual Writer-in-Residence @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)**
+- **Virtual Writer-in-Residence @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)**
 
 
 
