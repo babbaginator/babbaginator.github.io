@@ -15,9 +15,10 @@
 ### Work Experience
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
 - **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
-- **Writing Coach & Manuscript Consultant** (_Jun 2019 - Present_)
 - **Writer-in-Residence** @ Regina Public Library (_Sep 2021 - May 2022_)
 - **Virtual Writer-in-Residence** @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)
+- **Writing Coach & Manuscript Consultant** (_Jun 2019 - Present_)
+- **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
 
 ### Publications 
 #### _Books_ 
@@ -27,6 +28,9 @@
 
 #### _Chapbooks_
 - _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
+
+#### _Articles_
+- “Imagining Home: Creating Literary Spaces of Change” in _How Dare We! Write. 2nd Edition_, Modern History Press, 2022.
 
 ### Digital Projects 
 - [Boxcar Poetry Review](http://www.boxcarpoetry.com) (2006-2021)
