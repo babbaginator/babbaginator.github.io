@@ -33,10 +33,7 @@
 - “Imagining Home: Creating Literary Spaces of Change” in _How Dare We! Write. 2nd Edition_, Modern History Press, 2022.
 
 ### Digital Projects 
-- [Boxcar Poetry Review](http://www.boxcarpoetry.com) (2006-2021)
-   - an online literary journal featuring poetry, reviews of first books of poetry, and interviews with first-book poets
-   - created as a static site using HTML, CSS, and Javascript
-   - 41 issues
+#### _Podcasts & Video Series_
 - [The Hermit Poetry Series](https://www.youtube.com/c/NeilAitken) (2020-2023)
    - a YouTube series where I read a poem from a contemporary poet or a poet from the past
    - created using OBS Studio and OpenShot
@@ -46,6 +43,25 @@
    - also broadcast on KBOO 90.7 Portland, Oregon
    - recorded at KBOO Community Radio and edited with Audacity
    - 20 episodes
+#### _Interactive Fiction Games_
+- The Last Librarian (in development)
+   - choice-based adventure set in a dystopian Northwest Territories in the 1980s
+   - you play as the last librarian in a community and must take the bookmobile out to the northernmost settlements
+   - written in Twine 2.81/Harlowe
+- Into the Dark Woods (in development)
+   - choice-based fantasy adventure game drawing on multiple literary sources exploring roads taken and not taken.
+   - written in Twine 2.81/Harlowe and Javascript
+   - 737+ passages
+- [The Cave](https://ifdb.org/viewgame?id=y771zb318c2szi9) (2020)
+   - choice-based fantasy adventure game/character generator with procedurally generated narrative elements
+   - written in Twine 2.0/Harlowe and Javascript
+   - 2020 Interactive Fiction Competition Entry
+   - 139 passages
+#### _Websites & Resources_
+- [Boxcar Poetry Review](http://www.boxcarpoetry.com) (2006-2021)
+   - an online literary journal featuring poetry, reviews of first books of poetry, and interviews with first-book poets
+   - created as a static site using HTML, CSS, and Javascript
+   - 41 issues
 - [De-Canon](https://www.de-canon.com) (2017-Present)
    - a literary social practice art project that centers the works and voices of writers of color
    - in addition to co-directing the project, I also wrote numerous research articles for the blog
