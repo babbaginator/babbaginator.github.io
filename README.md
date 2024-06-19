@@ -1,4 +1,4 @@
-# Digital Scholarship Librarian
+## Digital Scholarship Librarian
 
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
