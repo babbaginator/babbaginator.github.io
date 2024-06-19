@@ -23,6 +23,10 @@
 
 - **Virtual Writer-in-Residence @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)**
 
+### Publications ###
+- **_Babbage's Dream_ (Sundress Publications, 2017)**. Book (poetry).
+- **_Leviathan_ (Hyacinth Girl Press, 2016)**. Chapbook (poetry).
+- **_The Lost Country of Sight_ (Anhinga Press, 2008)**. Book (poetry).
 
 
 
