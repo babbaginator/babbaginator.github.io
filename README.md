@@ -29,16 +29,16 @@
 - _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
 
 ### Projects 
-[The Hermit Poetry Series](https://www.youtube.com/c/NeilAitken)
-> a YouTube series where I read a poem from a contemporary poet or a poet from the past. Created using OBS Studio and OpenShot. 398 episodes. 
+- [The Hermit Poetry Series](https://www.youtube.com/c/NeilAitken)
+   - a YouTube series where I read a poem from a contemporary poet or a poet from the past. Created using OBS Studio and OpenShot. 398 episodes. 
 
-[The Lit Fantastic](http://www.thelitfantastic.com)
-> a two-season author interview podcast series where I interviewed authors about their favorite or strangest obsessions. Also broadcast on KBOO 90.7 Portland, Oregon. Recorded at KBOO Community Radio and edited with Audacity. 20 episodes. 
+- [The Lit Fantastic](http://www.thelitfantastic.com)
+   - a two-season author interview podcast series where I interviewed authors about their favorite or strangest obsessions. Also broadcast on KBOO 90.7 Portland, Oregon. Recorded at KBOO Community Radio and edited with Audacity. 20 episodes. 
 
-[De-Canon](https://www.de-canon.com)
-> a literary social practice art project that centers the works and voices of writers of color. Founded in 2017 as a “pop-up library” + social engagement project, with a mission to challenge and unsettle notions of the (western) literary canon while also questioning precepts of canonization itself, De-Canon encourages new paradigms of writing and reading. Site designed and hosted at Squarespace.
+- [De-Canon](https://www.de-canon.com)
+   - a literary social practice art project that centers the works and voices of writers of color. Founded in 2017 as a “pop-up library” + social engagement project, with a mission to challenge and unsettle notions of the (western) literary canon while also questioning precepts of canonization itself, De-Canon encourages new paradigms of writing and reading. Site designed and hosted at Squarespace.
 
-[Have Book, Will Travel](http://www.havebookwilltravel.com)
-> a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events. Created with WordPress.
+- [Have Book, Will Travel](http://www.havebookwilltravel.com)
+   - a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events. Created with WordPress.
 
 
