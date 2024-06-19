@@ -29,6 +29,9 @@
 - _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
 
 ### Projects 
+[The Lit Fantastic](http://www.thelitfantastic.com)
+> a two-season podcast series hosted by Neil Aitken where authors discuss their favorite or strangest obsessions 
+
 [De-Canon](https://www.de-canon.com)
 > a literary social practice art project that centers the works and voices of writers of color. Founded in 2017 as a “pop-up library” + social engagement project, with a mission to challenge and unsettle notions of the (western) literary canon while also questioning precepts of canonization itself, De-Canon encourages new paradigms of writing and reading. 
 
