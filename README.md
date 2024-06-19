@@ -21,9 +21,9 @@
 
 ### Publications ###
 #### _Books_ 
-- _Babbage's Dream_ (Sundress Publications, 2017). (poetry).
-- _The Book of Cranes: Selected Poems by Zang Di (1984-2015)_ (Vagabond Books AU, 2015). (Chinese-English translation).
-- _The Lost Country of Sight_ (Anhinga Press, 2008). (poetry).
+- _Babbage's Dream_. Sundress Publications, 2017. (poetry).
+- _The Book of Cranes: Selected Poems by Zang Di (1984-2015)_. Vagabond Books AU, 2015. (Chinese-English translation).
+- _The Lost Country of Sight_. Anhinga Press, 2008. (poetry).
 
 #### _Chapbooks_
 - _Leviathan_ (Hyacinth Girl Press, 2016). (poetry).
