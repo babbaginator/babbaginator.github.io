@@ -49,11 +49,13 @@
    - you play as the last librarian in a community and must take the bookmobile out to the northernmost settlements
    - written in Twine 2.81/Harlowe
 - Into the Dark Woods (in development)
-   - choice-based fantasy adventure game drawing on multiple literary sources exploring roads taken and not taken.
+   - choice-based fantasy adventure game drawing on multiple literary sources exploring roads taken and not taken
+   - you wake in a forest clearing at dusk and must find shelter and fire to survive the night
    - written in Twine 2.81/Harlowe and Javascript
    - 737+ passages
 - [The Cave](https://ifdb.org/viewgame?id=y771zb318c2szi9) (2020)
    - choice-based fantasy adventure game/character generator with procedurally generated narrative elements
+   - you find yourself in a cave system without a light source and must find your way out
    - written in Twine 2.0/Harlowe and Javascript
    - 2020 Interactive Fiction Competition Entry
    - 139 passages
