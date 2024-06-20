@@ -13,8 +13,9 @@
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
 
 ### DH Workshops 
-- **Engaging Play**, DHSI 2024, University of Victoria
-- **DH for Librarians**, DHSI 2024, University of Victoria
+- **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
+- **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
+- **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
 
 ### Work Experience
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
