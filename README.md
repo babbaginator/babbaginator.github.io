@@ -83,7 +83,7 @@
 #### _Editorship_
 - Guest Editor. _Write Magazine_ (Writers' Union of Canada). Summer 2021 Issue. 
 - Editor-in-Chief. _Boxcar Poetry Review_. 2006-2021.
-- Contributing Editor (Chinese-English Translation). _Poetry East West_. 2010-Present.
+- Contributing Editor (Chinese-English Translation). _Poetry East West_. 2010-2019.
 - Co-Editor-in-Chief. _CRATE: A Journal of Borders & Boundaries_ (UC Riverside). 2005-2006.
 
 #### _Professional Committees & Involvement_
