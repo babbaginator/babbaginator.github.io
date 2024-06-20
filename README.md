@@ -91,3 +91,13 @@
 - Chair, Nominating Committee. Writers' Union of Canada. 2021-2023.
 - Regional Representative (Saskatchewan). The League of Canadian Poets. 2021-2023.
 - Regional Chair (International). Kundiman. 2021-Present.
+
+### Professional Memberships
+- ACH (Association for Computers and the Humanities)
+- ALA (American Library Association)
+- APALA (Asian Pacific American Librarian Association)
+- ASCAP (American Society of Composers, Artists, and Publishers)
+- AWP (Association of Writers & Writing Programs)
+- LCP (League of Canadian Poets)
+- SWG (Saskatchewan Writers’ Guild)
+- TWUC (The Writers’ Union of Canada)
