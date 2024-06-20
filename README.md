@@ -79,4 +79,15 @@
    - a Wordpress site featuring a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events
    - 400+ author, venue, and reading series profiles
 
+### Professional Experience
+#### _Editorship_
+- Guest Editor. _Write Magazine_ (Writers' Union of Canada). Summer 2021 Issue. 
+- Editor-in-Chief. _Boxcar Poetry Review_. 2006-2021.
+- Contributing Editor (Chinese-English Translation). _Poetry East West_. 2010-Present.
+- Co-Editor-in-Chief. _CRATE: A Journal of Borders & Boundaries_ (UC Riverside). 2005-2006.
 
+#### _Professional Committees & Involvement_
+- Digital Strategy Working Group. University of British Columbia. 2024.
+- Chair, Nominating Committee. Writers' Union of Canada. 2021-2023.
+- Regional Representative (Saskatchewan). The League of Canadian Poets. 2021-2023.
+- Regional Chair (International). Kundiman. 2021-Present.
