@@ -18,7 +18,7 @@
 - **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
 
 ### Work Experience
-#### _Digital & Programming Roles_
+#### _Digital & Programming_
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
 - **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
   
@@ -30,7 +30,6 @@
 - **Teaching Assistant** (General Education/Humanities) @ University of Southern California (_Sep 2012 - Apr2015_)
 - **Assistant Lecturer** (Critical Reasoning & Writing) @ University of Southern California (_Sep 2008 - Aug 2012_)
 - **Teaching Assistant/Instructor** (Creative Writing) @ University of California, Riverside (_Sep 2005 - Jun 2006_)
-
 
 ### Publications 
 #### _Books_ 
