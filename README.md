@@ -104,6 +104,7 @@
 - APALA (Asian Pacific American Librarian Association)
 - ASCAP (American Society of Composers, Artists, and Publishers)
 - AWP (Association of Writers & Writing Programs)
+- BCLA (British Columbia Library Association)
 - LCP (League of Canadian Poets)
 - SWG (Saskatchewan Writers’ Guild)
 - TWUC (The Writers’ Union of Canada)
