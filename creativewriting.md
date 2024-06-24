@@ -92,6 +92,6 @@ Series” by Zang Di; “A Homebound Guy”, “The Tribe of Apes”, “The Aft
 - _Poetry East West_: “The Clay Pot in Tennessee”; “Post-Poison-ism”; “To the Sea Nest” by Yang Xiaobin (co-translated with Ming Di); “Watching Clouds,” “The Rock Artist” by Qin Xiaoyu (co-translated with Ming Di); “'Freedom' is a Lonely Word” & “Bland Life, Blunt Poetry” by Sun Wenbo (co-translated with Ming Di); “On the Street” & “Half-Poems” by Yu Xiang (co-translated with Fan Jinghua). Issue 1 (2010) Beijing.
 
 #### _Opera Libretti_
-- _Star Singer_. Full opera libretto (75 minutes), music by Juhi Bansal. Commissioned by Opera America & Beth Morrison Projects for Prototype Festival, NYC. Forthcoming 2027.
+- _Star Singer_. Full opera libretto (75 minutes), music by Juhi Bansal. Commissioned by Opera America & Beth Morrison Projects for Prototype Festival, NYC. Forthcoming Jan 2027.
 - _Edge of a Dream_. Short opera libretto (22 minutes), music by Juhi Bansal. Commissioned by LA Opera. 2020.
 
