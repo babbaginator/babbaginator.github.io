@@ -1,6 +1,17 @@
 # Creative Writing
 
-### Anthologized Poems
+#### _Books_ 
+- _Babbage's Dream_. Sundress Publications, 2017. (poetry).
+- _The Book of Cranes: Selected Poems by Zang Di (1984-2015)_. Vagabond Books AU, 2015. (Chinese-English translation).
+- _The Lost Country of Sight_. Anhinga Press, 2008. (poetry).
+
+#### _Chapbooks_
+- _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
+
+#### _Articles_
+- “Imagining Home: Creating Literary Spaces of Change” in _How Dare We! Write. 2nd Edition_, Modern History Press, 2022.
+
+#### _Anthologized Poems_
 - _Border Lines: Poems About Migration_ (eds. Michael Waters, Mihaela Moscaliuc) Pocket Poets/Everyman’s Library, 2020: “Outside Plato's Republic, The Last Poets Wait for Departure”
 - _The World I Leave You: Asian American Poets on Faith and Spirituality_ (eds. Leah Silvieus, Lee Herrick) Orison Books, 2020: "The Art of Forgetting"; "How We Are Saved"; "Prodigal" 
 - _The Poet’s Quest for God: 21st Century Poems of Faith, Doubt, and Wonder_ (ed. Todd Swift) Eyewear Press, 2016: “Traveling Through the Prairies, I Think of My Father’s Voice”
@@ -14,13 +25,13 @@
 - _Homage to Vallejo_ (ed. Christopher Buckley) Greenhouse Review Press, 2006: “A Winter’s Day Like Any Other”
 - _Literary Angles_ (ed. Marie Lecrivain) Sybaritic Press, 2005: “Forgetting to Fill Up in Saskatoon”
 
-### Anthologized Poetry Translations
+#### _Anthologized Poetry Translations_
 - _Republic of Apples, Democracy of Oranges: New Eco-Poetry from China and the United States_. Manoa Journal/University of Hawai’i Press, 2019: “Nothing to Do With Crows” by Sun Wen Bo; “The Books of the
    Original Role” by Zang Di  (co-translated with Ming Di)
 - _New Cathay: Contemporary Chinese Poetry, 1990-2012_ (Tupelo Press, 2013): “Bland Life, Blunt Poetry” by Sun Wenbo; “Mao Zedong” by Xiao Kaiyu; “; “Offenders”, “Street Music” “My Girl”, “The View”, “Whale”, “Tempus Fugit” by Lü De-An; “The Clay Pot in Tennessee” by Yang Xiaobin; “James Baldwin is Dead”, “Contemporary Love”, “In the Memory of Wittgenstein”, “The Universe is Flat”, “A Few Reasons Why I Love Rimbaud”, “Assocation of How to Conditionally Grasp the Truth”, “The Books of Human Shaped Bakeries”, “In Memory of Paul Klee, A Book Series”, “The Books of the Original Role”, “In Memory of Dostoevsky, A Book
 Series” by Zang Di; “A Homebound Guy”, “The Tribe of Apes”, “The Afternoon I Started Teaching”, “Poetry and Reality” by Jiang Tao; “Imperial Envoys”, “Sleep Can Never Be Inherited”, “Birthday Incident”, “Poetry Doesn't Know It's Dead”, “Sitting” by Lü Yue; “Searching”, “Geometry”, “An Old Woman's Timepiece”, “Eternity” by Jiang Li (co-translated with Ming Di)
 
-### Selected Poems
+#### _Selected Poems_
 - _Tupelo Quarterly_: “Ritual”, “Crossing Over” & “Farewell.” Issue 28 (14 Dec 2022).
 - _Hyphen Magazine_: “After” & “44” (April 2022).
 - _Valaparaiso Poetry Review_: “Searching My Father’s Books.” Issue 22.2 (Spring/Summer 2021).
@@ -73,7 +84,7 @@ Series” by Zang Di; “A Homebound Guy”, “The Tribe of Apes”, “The Aft
 - _Poetic Diversity_: “Counting Winters in Los Angeles”  & “Jericho,” Issue 2.4 (1 Nov. 2004).
 - _Southern Poetry Review_: “Love Song,” Issue 39.2 (1999).
 
-### Selected Poetry Translations
+#### _Selected Poetry Translations_
 -  _Poetry International_: “Samdruptse Castle” by Yungdrung Gyurmè (co-translated with Ming Di). (20 Dec 2020). 
 - _Poetry International: “People Die Every Day” by Guan Jingjing (co-translated with Ming Di) & “What I Fear Most is You Growing Up” by Pan Xichen (co-translated with Ming Di and Kerry Shawn Keys). (11 Aug 2020).
 - _Poetry International_: “Poetry Doesn’t Know That It’s Dead” by Lü Yue; “Condolence” by Huang Shazi; “Sad” by Jian Nan; “Graveyard Bird” by Huang Bin (co-translated with Ming Di)  (2 Jun 2020).
