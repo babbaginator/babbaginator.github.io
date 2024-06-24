@@ -43,7 +43,7 @@
 #### _Articles_
 - “Imagining Home: Creating Literary Spaces of Change” in _How Dare We! Write. 2nd Edition_, Modern History Press, 2022.
 
-#### _List of creative writing publications_
+#### _Individual Pieces_
 - [View list](creativewriting.md)
 
 
