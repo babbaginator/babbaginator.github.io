@@ -86,7 +86,7 @@ Series” by Zang Di; “A Homebound Guy”, “The Tribe of Apes”, “The Aft
 
 #### _Selected Poetry Translations_
 -  _Poetry International_: “Samdruptse Castle” by Yungdrung Gyurmè (co-translated with Ming Di). (20 Dec 2020). 
-- _Poetry International: “People Die Every Day” by Guan Jingjing (co-translated with Ming Di) & “What I Fear Most is You Growing Up” by Pan Xichen (co-translated with Ming Di and Kerry Shawn Keys). (11 Aug 2020).
+- _Poetry International_: “People Die Every Day” by Guan Jingjing (co-translated with Ming Di) & “What I Fear Most is You Growing Up” by Pan Xichen (co-translated with Ming Di and Kerry Shawn Keys). (11 Aug 2020).
 - _Poetry International_: “Poetry Doesn’t Know That It’s Dead” by Lü Yue; “Condolence” by Huang Shazi; “Sad” by Jian Nan; “Graveyard Bird” by Huang Bin (co-translated with Ming Di)  (2 Jun 2020).
 - _Poetry East West_: “Flower-Loving Butterflies” by Zang Di (co-translated with Ming Di); “Peach-blossom Town” by Liu Jiemin (co-translated with Ming Di and Sheng Yan); “Candy Wrapper” & “Why We Grind” by Zhang Zhihao (co-translated with Li Yiliang). Issue 2 (2011) Beijing.
 - _Poetry East West_: “The Clay Pot in Tennessee”; “Post-Poison-ism”; “To the Sea Nest” by Yang Xiaobin (co-translated with Ming Di); “Watching Clouds,” “The Rock Artist” by Qin Xiaoyu (co-translated with Ming Di); “'Freedom' is a Lonely Word” & “Bland Life, Blunt Poetry” by Sun Wenbo (co-translated with Ming Di); “On the Street” & “Half-Poems” by Yu Xiang (co-translated with Fan Jinghua). Issue 1 (2010) Beijing.
