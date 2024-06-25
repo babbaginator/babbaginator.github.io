@@ -1,4 +1,4 @@
-## Publications / Creative Writing
+## Publications / Poetry & Translation
 
 #### _Books_ 
 - _Babbage's Dream_. Sundress Publications, 2017. (poetry).
@@ -7,9 +7,6 @@
 
 #### _Chapbooks_
 - _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
-
-#### _Articles_
-- “Imagining Home: Creating Literary Spaces of Change” in _How Dare We! Write. 2nd Edition_, Modern History Press, 2022.
 
 #### _Anthologized Poems_
 - _Border Lines: Poems About Migration_ (eds. Michael Waters, Mihaela Moscaliuc) Pocket Poets/Everyman’s Library, 2020: “Outside Plato's Republic, The Last Poets Wait for Departure”
