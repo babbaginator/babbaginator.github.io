@@ -33,9 +33,9 @@
 
 ### Publications 
 #### _Books_ 
-- _Babbage's Dream_. Sundress Publications, 2017. (poetry).
-- _The Book of Cranes: Selected Poems by Zang Di (1984-2015)_. Vagabond Books AU, 2015. (Chinese-English translation).
-- _The Lost Country of Sight_. Anhinga Press, 2008. (poetry).
+- _[Babbage's Dream](https://sundress-publications.square.site/product/babbage-s-dream-by-neil-aitken/39). Sundress Publications, 2017. (poetry).
+- _[The Book of Cranes: Selected Poems by Zang Di (1984-2015)](https://vagabondpress.net/products/zang-di-the-book-of-cranes-selected-poems). Vagabond Books AU, 2015. (Chinese-English translation).
+- _[The Lost Country of Sight](https://www.anhingapress.org/poetry/the-lost-country-of-sight). Anhinga Press, 2008. (poetry).
 
 #### _Chapbooks_
 - _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
