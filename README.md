@@ -46,6 +46,8 @@
 #### _Poetry & Translation_
 - [View list](creativewriting.md)
 
+### Collaborations (Music/Film/Art)
+- [View list](collaborations.md)
 
 ### Digital Projects 
 #### _Podcasts & Video Series_
