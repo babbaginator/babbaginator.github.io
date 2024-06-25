@@ -5,10 +5,12 @@
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
   - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
+  - Committee: David St. John, Hilary Schor, Deborah Harkness
 - **MLIS Library & Information Science**, University of British Columbia, Vancouver
-  - Research Interests:  Digital Humanities, Storytelling, Gaming
+  - Research Interests:  Digital Humanities, Storytelling, Gaming 
 - **MFA Creative Writing**, University of California, Riverside
   - Thesis: _The Lost Country of Sight_ (poetry)
+  - Committee: Chris Abani, Christopher Buckley, Maurya Simon
 - **BS Computer Science**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
 
