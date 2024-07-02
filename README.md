@@ -34,24 +34,6 @@
 - **Assistant Lecturer** (Critical Reasoning & Writing) @ University of Southern California (_Sep 2008 - Aug 2012_)
 - **Teaching Assistant/Instructor** (Creative Writing) @ University of California, Riverside (_Sep 2005 - Jun 2006_)
 
-### Publications 
-#### _Books_ 
-- [_Babbage's Dream_](https://sundress-publications.square.site/product/babbage-s-dream-by-neil-aitken/39). Sundress Publications, 2017. (poetry).
-- [_The Book of Cranes: Selected Poems by Zang Di (1984-2015)_](https://vagabondpress.net/products/zang-di-the-book-of-cranes-selected-poems). Vagabond Books AU, 2015. (Chinese-English translation).
-- [_The Lost Country of Sight_](https://www.anhingapress.org/poetry/the-lost-country-of-sight). Anhinga Press, 2008. (poetry).
-
-#### _Chapbooks_
-- _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
-
-#### _Articles_
-- “Imagining Home: Creating Literary Spaces of Change” in [_How Dare We! Write. 2nd Edition_](https://www.modernhistorypress.com/store/How-Dare-We-Write-2nd-Edition-PB-p490926176), Modern History Press, 2022.
-
-#### _Poetry & Translation (individual pieces)_
-- [View list](creativewriting.md)
-
-### Collaborations (Music/Film/Art)
-- [View list](collaborations.md)
-
 ### Digital Projects 
 #### _Podcasts & Video Series_
 - [The Hermit Poetry Series](https://www.youtube.com/c/NeilAitken) (2020-2023)
@@ -93,6 +75,25 @@
 - [Have Book, Will Travel](http://www.havebookwilltravel.com) (2015-Present)
    - a Wordpress site featuring a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events
    - 400+ author, venue, and reading series profiles
+
+### Publications 
+#### _Books_ 
+- [_Babbage's Dream_](https://sundress-publications.square.site/product/babbage-s-dream-by-neil-aitken/39). Sundress Publications, 2017. (poetry).
+- [_The Book of Cranes: Selected Poems by Zang Di (1984-2015)_](https://vagabondpress.net/products/zang-di-the-book-of-cranes-selected-poems). Vagabond Books AU, 2015. (Chinese-English translation).
+- [_The Lost Country of Sight_](https://www.anhingapress.org/poetry/the-lost-country-of-sight). Anhinga Press, 2008. (poetry).
+
+#### _Chapbooks_
+- _Leviathan_. Hyacinth Girl Press, 2016. (poetry).
+
+#### _Articles_
+- “Imagining Home: Creating Literary Spaces of Change” in [_How Dare We! Write. 2nd Edition_](https://www.modernhistorypress.com/store/How-Dare-We-Write-2nd-Edition-PB-p490926176), Modern History Press, 2022.
+
+#### _Poetry & Translation (individual pieces)_
+- [View list](creativewriting.md)
+
+### Collaborations (Music/Film/Art)
+- [View list](collaborations.md)
+
 
 ### Professional Experience
 #### _Editorship_
