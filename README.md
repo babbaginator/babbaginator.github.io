@@ -2,6 +2,20 @@
 
 #### Technical Skills: Python, Javascript, C++, HTML, CSS, WordPress, SQL, Twine
 
+### Experience
+#### _Digital & Programming_
+- **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
+- **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
+  
+#### _Teaching & Mentoring_
+- **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
+- **Writer-in-Residence** @ Regina Public Library (_Sep 2021 - May 2022_)
+- **Virtual Writer-in-Residence** @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)
+- **Writing Coach & Manuscript Consultant** (_Jun 2019 - Present_)
+- **Teaching Assistant** (General Education/Humanities) @ University of Southern California (_Sep 2012 - Apr2015_)
+- **Assistant Lecturer** (Critical Reasoning & Writing) @ University of Southern California (_Sep 2008 - Aug 2012_)
+- **Teaching Assistant/Instructor** (Creative Writing) @ University of California, Riverside (_Sep 2005 - Jun 2006_)
+
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
   - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
@@ -18,20 +32,6 @@
 - **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
 - **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
 - **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
-
-### Work Experience
-#### _Digital & Programming_
-- **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
-- **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
-  
-#### _Teaching & Mentoring_
-- **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
-- **Writer-in-Residence** @ Regina Public Library (_Sep 2021 - May 2022_)
-- **Virtual Writer-in-Residence** @ Saskatchewan Writers' Guild (_Sep 2020 - Dec 2020_)
-- **Writing Coach & Manuscript Consultant** (_Jun 2019 - Present_)
-- **Teaching Assistant** (General Education/Humanities) @ University of Southern California (_Sep 2012 - Apr2015_)
-- **Assistant Lecturer** (Critical Reasoning & Writing) @ University of Southern California (_Sep 2008 - Aug 2012_)
-- **Teaching Assistant/Instructor** (Creative Writing) @ University of California, Riverside (_Sep 2005 - Jun 2006_)
 
 ### Publications 
 #### _Books_ 
