@@ -1,5 +1,6 @@
-## Digital Scholarship Librarian
+# C.V.
 
+## Digital Scholarship Librarian
 #### Technical Skills: Python, Javascript, C++, HTML, CSS, WordPress, SQL, Twine
 
 ### Experience
