@@ -15,6 +15,7 @@
   - Committee: Chris Abani, Christopher Buckley, Maurya Simon
 - **BS Computer Science with Mathematics minor**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
+  - Graduate Courses: Creative Writing Workshop (3x), Asian American Literature
 
 ### DH Workshops 
 - **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
