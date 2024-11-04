@@ -10,7 +10,6 @@
 - **MLIS Library & Information Science**, University of British Columbia, Vancouver
   - Research Interests:  Digital Humanities, Storytelling, Gaming
   - Tech Skills: MySQL, Python, HTML5, CSS 3.0, Javascript, Figma, Miro, SlideDoc design, database design
-  - Library Skills: 
 - **MFA Creative Writing**, University of California, Riverside
   - Thesis: _The Lost Country of Sight_ (poetry)
   - Committee: Chris Abani, Christopher Buckley, Maurya Simon
