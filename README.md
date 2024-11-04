@@ -22,6 +22,7 @@
 - **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
 - **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
 - **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
+- **Introduction to Machine Learning: Neural Networks**, University of British Columbia (2 hrs)
 
 ### Experience
 #### _Library Service & Development Work_
