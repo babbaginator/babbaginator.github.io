@@ -5,7 +5,8 @@
 
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
-  - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
+  - Critical Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
+  - Creative Dissertation: _Babbage's Dream_ (poetry)
   - Committee: David St. John, Hilary Schor, Deborah Harkness
 - **MLIS Library & Information Science**, University of British Columbia, Vancouver
   - Research Interests:  Digital Humanities, Storytelling, Gaming
