@@ -15,6 +15,7 @@
   - Committee: Chris Abani, Christopher Buckley, Maurya Simon
 - **BS Computer Science with Mathematics minor**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
+  - Programming Languages: C, C++, Java, Pascal, Javascript, LISP(Scheme), Assembly
   - Graduate Courses: Creative Writing Workshop (3x), Asian American Literature
 
 ### DH Workshops 
@@ -23,15 +24,21 @@
 - **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
 
 ### Experience
-#### _Digital & Programming_
+#### _Library Service & Development Work_
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
   - Development: Python, Javascript, HTML, CSS, Markdown, Github
   - Tools: Leaflet, Document Intelligence (AI Transcription)
   - Platforms: WordPress, Omeka, Scalar, Jekyll
   - Methods/Tasks: data cleaning; text AI-aided transcription for large text corpus; batch file conversion; automation; GUI development; sentiment analysis; troubleshooting WP updates, installs, and plugins
+- **Collection Development Researcher (Professional Experience)** @ UBC Library (_Sep 2024 - Apr 2025)
+  - Informal interviews with faculty and student researchers interested in the teaching, study, and creation of speculative fiction
+  - Developing online resources and indices to aid faculty in making informed decisions about current holdings of relevant materials
+- **Writer-in-Residence** @ Regina Public Library (_Sep 2021 - May 2022_)
+  - Programs Developed: Authors in Conversation Series; Generative Creative Writing Workshops; Introduction to Dungeons & Dragons Workshops
+  - Mentorship: One-on-one writing consultations (in-person and via Zoom)  
 - **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
   - Development: C++, Director Lingo, in-house game engines & scripting languages
-  - Projects: 7 completed kids entertainment/edutainment titles (lead programmer on 5), created external scripting language and collaborated on creating a level editor
+  - Projects: 7 completed kids' entertainment/edutainment titles (lead programmer on 5), created external scripting language and collaborated on creating a level editor
   
 #### _Teaching & Mentoring_
 - **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
