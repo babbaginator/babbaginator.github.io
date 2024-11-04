@@ -31,7 +31,7 @@
   - Development: Python, Javascript, HTML, CSS, Markdown, Github
   - Tools: Leaflet, Document Intelligence (AI Transcription)
   - Platforms: WordPress, Omeka, Scalar, Jekyll
-  - Methods/Tasks: data cleaning; text AI-aided transcription for large text corpus; batch file conversion; automation; GUI development; sentiment analysis; troubleshooting WP updates, installs, and plugins
+  - Project Experience: data cleaning; text AI-aided transcription for large text corpus; batch file conversion; automation; GUI development; sentiment analysis; website prototyping; troubleshooting WP updates, installs, and plugins
 - **Collection Development Researcher (Professional Experience)** @ UBC Library (_Sep 2024 - Apr 2025)
   - Informal interviews with faculty and student researchers interested in the teaching, study, and creation of speculative fiction
   - Developing online resources and indices to aid faculty in making informed decisions about current holdings of relevant materials
