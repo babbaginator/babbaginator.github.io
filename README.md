@@ -13,7 +13,7 @@
 - **MFA Creative Writing**, University of California, Riverside
   - Thesis: _The Lost Country of Sight_ (poetry)
   - Committee: Chris Abani, Christopher Buckley, Maurya Simon
-- **BS Computer Science**, Brigham Young University, Provo
+- **BS Computer Science with Mathematics minor**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
 
 ### DH Workshops 
