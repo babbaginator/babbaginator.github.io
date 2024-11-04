@@ -1,7 +1,7 @@
 # C.V.
 
 ### Digital Scholarship Librarian
-#### Technical Skills: Python, Javascript, C++, HTML, CSS, WordPress, SQL, Twine, Markdown
+#### Technical Skills: Python, Javascript, Java, C++, SQL, Twine, Markdownm HTML, CSS, WordPress, Omeka, Github
 
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
