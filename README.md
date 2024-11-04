@@ -8,7 +8,9 @@
   - Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
   - Committee: David St. John, Hilary Schor, Deborah Harkness
 - **MLIS Library & Information Science**, University of British Columbia, Vancouver
-  - Research Interests:  Digital Humanities, Storytelling, Gaming 
+  - Research Interests:  Digital Humanities, Storytelling, Gaming
+  - Tech Skills: MySQL, Python, HTML5, CSS 3.0, Javascript, Figma, Miro, SlideDoc design, database design
+  - Library Skills: 
 - **MFA Creative Writing**, University of California, Riverside
   - Thesis: _The Lost Country of Sight_ (poetry)
   - Committee: Chris Abani, Christopher Buckley, Maurya Simon
@@ -23,7 +25,13 @@
 ### Experience
 #### _Digital & Programming_
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
+  - Development: Python, Javascript, HTML, CSS, Markdown, Github
+  - Tools: Leaflet, Document Intelligence (AI Transcription)
+  - Platforms: WordPress, Omeka, Scalar, Jekyll
+  - Methods/Tasks: data cleaning; text AI-aided transcription for large text corpus; batch file conversion; automation; GUI development; sentiment analysis; troubleshooting WP updates, installs, and plugins
 - **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
+  - Development: C++, Director Lingo, in-house game engines & scripting languages
+  - Projects: 7 completed kids entertainment/edutainment titles (lead programmer on 5), created external scripting language and collaborated on creating a level editor
   
 #### _Teaching & Mentoring_
 - **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
