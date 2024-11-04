@@ -18,7 +18,7 @@
   - Programming Languages: C, C++, Java, Pascal, Javascript, LISP(Scheme), Assembly
   - Graduate Courses: Creative Writing Workshop (3x), Asian American Literature
 
-### DH Workshops 
+### DH Workshops Attended
 - **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
 - **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
 - **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
