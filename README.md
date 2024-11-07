@@ -1,7 +1,8 @@
 # C.V.
 
 ### Digital Scholarship Librarian
-#### Technical Skills: Python, Javascript, Java, C++, SQL, Twine, Markdownm HTML, CSS, WordPress, Omeka, Github
+#### Technical Skills: Python, Javascript, Java, C++, SQL, Twine, Markdown HTML, CSS, WordPress, Omeka, Github, Miro
+#### Summary: Professional Developer (games industry 5 years, insurance industry 2 years), Digital Projects Specialist (8 months)
 
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
