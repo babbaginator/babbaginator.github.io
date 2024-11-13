@@ -43,6 +43,9 @@
 - **Programmer** @ Knowledge Adventure/Vivendi Universal Games (_Jan 2000 - Aug 2004_)
   - Development: C++, Director Lingo, in-house game engines & scripting languages
   - Projects: 7 completed kids' entertainment/edutainment titles (lead programmer on 5), created external scripting language and collaborated on creating a level editor
+- **Programmer II** @InsurQuote Systems (_1998 - 1999_)
+  - Development: Pascal, in-house engine, module writing
+  - Projects: auto insurance underwriting modules for different insurance companies in various states
   
 #### _Teaching & Mentoring_
 - **Doctoral Writing Consultant** @ Centre for Writing & Scholarly Communication, UBC (_Aug 2023 - Mar 2024_)
