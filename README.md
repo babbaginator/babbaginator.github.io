@@ -2,8 +2,8 @@
 
 ### Digital Scholarship Librarian
 #### Technical Skills: Python, Javascript, Java, C++, SQL, Twine, Markdown HTML, CSS, WordPress, Omeka, Github, Miro
-#### Tools & Methods: regex, sentiment analysis, NLTK, ai-aided OCR transcription, Document Intelligence
-#### Summary: Professional Developer (games industry 5 years, insurance industry 2 years), Digital Projects Specialist (8 months)
+#### Tools & Methods: regex, sentiment analysis, NLTK, AI-aided OCR transcription, Azure Document Intelligence
+#### Summary: Professional Developer (games industry 5 years, insurance industry 2 years), Digital Projects Specialist (since 2024)
 
 ### Education
 - **PhD. Literature & Creative Writing**, University of Southern California
