@@ -69,6 +69,10 @@
    - 20 episodes
 
 #### _Interactive Fiction Games_
+- [A Little Assistance]([https://](https://cardiganmousegames.itch.io/a-little-assistance) (group project / Cardigan Mouse Games)
+  -   choice-based game and instructional tool around ethical and responsible AI use
+  -   the player is a new university student navigating various scenarios related to AI use in an academic setting
+  -   written in Twine 2.10.0/Harlowe
 - The Last Librarian (in development)
    - choice-based adventure set in a dystopian Northwest Territories in the 1980s
    - you play as the last librarian in a community and must take the bookmobile out to the northernmost settlements
