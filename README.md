@@ -1,33 +1,19 @@
-# C.V.
+# Neil Aitken
+## Curriculum Vitae
 
-### Digital Scholarship Librarian
-#### Technical Skills: Python, Javascript, Java, C++, SQL, Twine, Markdown HTML, CSS, WordPress, Omeka, Github, Miro
-#### Tools & Methods: regex, sentiment analysis, NLTK, AI-aided OCR transcription, Azure Document Intelligence
-#### Summary: Professional Developer (games industry 5 years, insurance industry 2 years), Digital Projects Specialist (since 2024)
-
-### Education
-- **PhD. Literature & Creative Writing**, University of Southern California
+### EDUCATION
+- **PhD. Literature & Creative Writing**, University of Southern California, 2015
   - Critical Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
-  - Creative Dissertation: _Babbage's Dream_ (poetry)
-  - Committee: David St. John, Hilary Schor, Deborah Harkness
-- **MLIS Library & Information Science**, University of British Columbia, Vancouver
-  - Research Interests:  Digital Humanities, Storytelling, Gaming
-  - Tech Skills: MySQL, Python, HTML5, CSS 3.0, Javascript, Figma, Miro, SlideDoc design, database design
-- **MFA Creative Writing**, University of California, Riverside
-  - Thesis: _The Lost Country of Sight_ (poetry)
-  - Committee: Chris Abani, Christopher Buckley, Maurya Simon
-- **BS Computer Science with Mathematics minor**, Brigham Young University, Provo
+  - Creative Dissertation: _Babbage's Dream_ (poetry)  
+- **MLIS Library & Information Science**, University of British Columbia, Vancouver, 2025
+  - Tech skills: Python, HTML5, CSS 3.0, Javascript, MySQL, Figma, Miro, SlideDoc design, database design, website design
+- **MFA Creative Writing**, University of California, Riverside, 2006
+  - Thesis: _The Lost Country of Sight_ (poetry)  
+- **BS Computer Science**, Brigham Young University, Provo, 1999
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
-  - Programming Languages: C, C++, Java, Pascal, Javascript, LISP(Scheme), Assembly
-  - Graduate Courses: Creative Writing Workshop (3x), Asian American Literature
-
-### DH Workshops Attended
-- **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
-- **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
-- **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
-- **Introduction to Machine Learning: Neural Networks**, University of British Columbia (2 hrs)
-
-### Experience
+  - Tech skills: C, C++, Java, Pascal, Javascript, LISP(Scheme), Assembly
+ 
+### EMPLOYMENT
 #### _Library Service & Development Work_
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, UBC (_Mar 2024 - Present_)
   - Development: Python, Javascript, HTML, CSS, Markdown, Github
@@ -56,7 +42,14 @@
 - **Assistant Lecturer** (Critical Reasoning & Writing) @ University of Southern California (_Sep 2008 - Aug 2012_)
 - **Teaching Assistant/Instructor** (Creative Writing) @ University of California, Riverside (_Sep 2005 - Jun 2006_)
 
-### Digital Projects 
+### PROFESSIONAL TRAINING
+- **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
+- **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
+- **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
+- **Introduction to Machine Learning: Neural Networks**, University of British Columbia (2 hrs)
+
+
+### DIGITAL PROJECTS 
 #### _Podcasts & Video Series_
 - [The Hermit Poetry Series](https://www.youtube.com/c/NeilAitken) (2020-2023)
    - a YouTube series where I read a poem from a contemporary poet or a poet from the past
@@ -102,7 +95,7 @@
    - a Wordpress site featuring a searchable database of authors willing to travel, reading series currently seeking guest writers, and venues available for booking events
    - 400+ author, venue, and reading series profiles
 
-### Publications 
+### PUBLICATIONS
 #### _Books_ 
 - [_Babbage's Dream_](https://sundress-publications.square.site/product/babbage-s-dream-by-neil-aitken/39). Sundress Publications, 2017. (poetry).
 - [_The Book of Cranes: Selected Poems by Zang Di (1984-2015)_](https://vagabondpress.net/products/zang-di-the-book-of-cranes-selected-poems). Vagabond Books AU, 2015. (Chinese-English translation).
@@ -117,11 +110,11 @@
 #### _Poetry & Translation (individual pieces)_
 - [View list](creativewriting.md)
 
-### Collaborations (Music/Film/Art)
+### COLLABORATIONS & PARTNERSHIPS
 - [View list](collaborations.md)
 
 
-### Professional Experience
+### PROFESSIONAL EXPERIENCE
 #### _Editorship_
 - **Guest Editor**. _Write Magazine_ (Writers' Union of Canada). Summer 2021 Issue. 
 - **Editor-in-Chief**. _Boxcar Poetry Review_. 2006-2021.
@@ -134,7 +127,7 @@
 - **Regional Representative (Saskatchewan)**. The League of Canadian Poets. 2021-2023.
 - **Regional Chair (International)**. Kundiman. 2021-Present.
 
-### Professional Memberships
+### PROFESSIONAL MEMBERSHIPS
 - ACH (Association for Computers and the Humanities)
 - ALA (American Library Association)
 - APALA (Asian Pacific American Librarian Association)
