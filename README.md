@@ -63,7 +63,7 @@
    - 20 episodes
 
 #### _Digital Research Tools_
-- [pyDatasetGen](https://github.com/babbaginator/pyDatasetGen) (2024)
+- [pyDatasetGen](https://github.com/DiSA-Projects/pyDatasetGen) (2024) 
   -   free and open-source library for producing customizable randomly generated datasets to be used in testing and development
   -   configurable through external files
   -   can generate numbers, alphanumeric patterns, view counts, names, dates, addresses, phone numbers, emails, urls, book titles, isbns, issns, book call numbers (both Library of Congress and Dewey Decimal)
