@@ -63,10 +63,14 @@
    - 20 episodes
 
 #### _Interactive Fiction Games_
-- [A Little Assistance](https://cardiganmousegames.itch.io/a-little-assistance) (group project / Cardigan Mouse Games)
+- [A Little Assistance](https://cardiganmousegames.itch.io/a-little-assistance) (group project / Cardigan Mouse Games). 2025
   -   choice-based game and instructional tool around ethical and responsible AI use
   -   the player is a new university student navigating various scenarios related to AI use in an academic setting
   -   written in Twine 2.10.0/Harlowe
+- The Lost Temple of Pythongoras (group project). 2024
+  -   parser-driven text adventure game in the style of Zork.
+  -   developed a custom game engine, object-oriented architecture, external scripting language, graphical interface, and command buffer handling.
+  -   led a project team of 2 other classmates as part of Intro to Python class
 - The Last Librarian (in development)
    - choice-based adventure set in a dystopian Northwest Territories in the 1980s
    - you play as the last librarian in a community and must take the bookmobile out to the northernmost settlements
