@@ -62,6 +62,13 @@
    - recorded at KBOO Community Radio and edited with Audacity
    - 20 episodes
 
+#### _Digital Research Tools_
+- [pyDatasetGen](https://github.com/babbaginator/pyDatasetGen) (2024)
+  -   free and open-source library for producing customizable randomly generated datasets to be used in testing and development
+  -   configurable through external files
+  -   can generate numbers, alphanumeric patterns, view counts, names, dates, addresses, phone numbers, emails, urls, book titles, isbns, issns, book call numbers (both Library of Congress and Dewey Decimal)
+  -   written in Python
+   
 #### _Interactive Fiction Games_
 - [A Little Assistance](https://cardiganmousegames.itch.io/a-little-assistance) (group project / Cardigan Mouse Games). 2025
   -   choice-based game and instructional tool around ethical and responsible AI use
@@ -71,6 +78,7 @@
   -   parser-driven text adventure game in the style of Zork.
   -   developed a custom game engine, object-oriented architecture, external scripting language, graphical interface, and command buffer handling.
   -   led a project team of 2 other classmates as part of Intro to Python class
+  -   written in Python
 - The Last Librarian (in development)
    - choice-based adventure set in a dystopian Northwest Territories in the 1980s
    - you play as the last librarian in a community and must take the bookmobile out to the northernmost settlements
