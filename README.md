@@ -74,7 +74,7 @@
   -   choice-based game and instructional tool around ethical and responsible AI use
   -   the player is a new university student navigating various scenarios related to AI use in an academic setting
   -   written in Twine 2.10.0/Harlowe
-- The Lost Temple of Pythongoras (group project). 2024
+- [The Lost Temple of Pythongoras](https://github.com/babbaginator/pythongoras) (group project). 2024
   -   parser-driven text adventure game in the style of Zork.
   -   developed a custom game engine, object-oriented architecture, external scripting language, graphical interface, and command buffer handling.
   -   led a project team of 2 other classmates as part of Intro to Python class
@@ -83,7 +83,7 @@
    - choice-based adventure set in a dystopian Northwest Territories in the 1980s
    - you play as the last librarian in a community and must take the bookmobile out to the northernmost settlements
    - written in Twine 2.81/Harlowe
-- Into the Dark Woods (in development)
+- [Into the Dark Woods](https://games.neil-aitken.com/IntoTheDarkWoods/Into_the_Dark_Woods.html) (in development)
    - choice-based fantasy adventure game drawing on multiple literary sources exploring roads taken and not taken
    - you wake in a forest clearing at dusk and must find shelter and fire to survive the night
    - written in Twine 2.81/Harlowe and Javascript
