@@ -43,6 +43,7 @@
 - **Teaching Assistant/Instructor** (Creative Writing) @ University of California, Riverside (_Sep 2005 - Jun 2006_)
 
 ### PROFESSIONAL TRAINING
+- **Spatial Analysis for Digital Humanities**, DHSI 2025, University of Montreal (21.5 hrs)
 - **Engaging Play**, DHSI 2024, University of Victoria (21.5 hrs)
 - **DH for Librarians**, DHSI 2024, University of Victoria (21.5 hrs)
 - **Preserving Your Digital Scholarship Projects**, Sherman Centre, McMaster University (1.5 hrs)
