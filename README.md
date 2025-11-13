@@ -109,9 +109,12 @@
    - 400+ author, venue, and reading series profiles
 
 ### PUBLICATIONS
+#### _Opera_Libretto_
+- [_Star Singer_](https://bethmorrisonprojects.org/star-singer/). Composer: Juhi Bansal. Produced by Beth Morrison Productions. Debuts late 2026.
+- [_Edge of a Dream_](https://juhibansal.com/edge-of-a-dream/). Composer: Juhi Bansal. Performed by Los Angeles Opera. 2020
+
 #### _Books_ 
 - [_Babbage's Dream_](https://sundress-publications.square.site/product/babbage-s-dream-by-neil-aitken/39). Sundress Publications, 2017. (poetry).
-- [_The Book of Cranes: Selected Poems by Zang Di (1984-2015)_](https://vagabondpress.net/products/zang-di-the-book-of-cranes-selected-poems). Vagabond Books AU, 2015. (Chinese-English translation).
 - [_The Lost Country of Sight_](https://www.anhingapress.org/poetry/the-lost-country-of-sight). Anhinga Press, 2008. (poetry).
 
 #### _Chapbooks_
