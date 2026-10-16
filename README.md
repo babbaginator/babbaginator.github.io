@@ -1,4 +1,4 @@
-# Neil Aitken
+# Neil Aitken | Data Librarian
 ## Curriculum Vitae
 
 ### EDUCATION
