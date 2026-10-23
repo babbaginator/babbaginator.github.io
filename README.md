@@ -2,14 +2,14 @@
 ## Curriculum Vitae
 
 ### EDUCATION
-- **MLIS Library & Information Science**, University of British Columbia, Vancouver, 2025
-  - Tech skills: Python, HTML5, CSS 3.0, Javascript, MySQL, Figma, Miro, SlideDoc design, database design, website design
-- **PhD. Literature & Creative Writing**, University of Southern California, 2015
+- **PhD. Literature & Creative Writing**, University of Southern California
   - Critical Dissertation: _Nineteenth-Century Artificial Intelligences: Thinking Machines, Mechanical Minds, & The Victorian Detective_
   - Creative Dissertation: _Babbage's Dream_ (poetry)  
-- **MFA Creative Writing**, University of California, Riverside, 2006
+- **MLIS Library & Information Science**, University of British Columbia, Vancouver
+  - Tech skills: Python, HTML5, CSS 3.0, Javascript, MySQL, Figma, Miro, SlideDoc design, database design, website design
+- **MFA Creative Writing**, University of California, Riverside
   - Thesis: _The Lost Country of Sight_ (poetry)  
-- **BS Computer Science**, Brigham Young University, Provo, 1999
+- **BS Computer Science**, Brigham Young University, Provo
   - Research Interests: Application Development, Algorithm Optimization, Artificial Intelligence
   - Tech skills: C, C++, Java, Pascal, Javascript, LISP(Scheme), Assembly
  
