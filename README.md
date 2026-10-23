@@ -115,7 +115,7 @@
 
 ### PUBLICATIONS
 #### _Opera_Libretto_
-- [_Mother Tongue_](https://bethmorrisonprojects.org/star-singer/). (Original title: _Star Singer_). Composer: Juhi Bansal. Produced by Beth Morrison Productions. Debuts late 2027 (Los Angeles).
+- [_Mother Tongue_](https://www.bethmorrisonprojects.org/shows/mother-tongue). (Original title: _Star Singer_). Composer: Juhi Bansal. Produced by Beth Morrison Productions. Debuts late 2027 (Los Angeles).
 - [_Edge of a Dream_](https://juhibansal.com/edge-of-a-dream/). Composer: Juhi Bansal. Performed by Los Angeles Opera. 2020
 
 #### _Books_ 
