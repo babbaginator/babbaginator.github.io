@@ -17,7 +17,8 @@
 #### _Library Service & Development Work_
 - **Data Librarian** @ Map and Data Library, University of Toronto (_Feb 2026 - Present_)
   - Duties: Support faculty and student researchers through consultations, tutorials, problem-solving, and reference work
-  - Areas: Text and data mining (TDM), data cleaning, data reference (public, government, licensed), Python, Github
+  - Areas: Text and data mining (TDM), data analysis, data cleaning, data reference (public, government, licensed), Python, Github
+  - Data Platforms & Collections: StatCan, ProQuest TDM Studio, Data Axle, Revelio, Open Toronto, Internet Archive
 - **Digital Projects Specialist** @ Digital Scholarship in the Arts, University of British Columbia (_Mar 2024 - Dec 2025_)
   - Development: Python, Javascript, HTML, CSS, Markdown, Github
   - Tools: Leaflet, Document Intelligence (AI Transcription)
